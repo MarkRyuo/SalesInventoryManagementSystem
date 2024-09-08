@@ -6,8 +6,8 @@ export const Navbar1 = () => {
     return (
 
         <>
-            <div className="row mb-5 ">
-                <nav className="navbar col-1 d-none d-sm-block">
+            <div className="row ">
+                <nav className="navbar col-1 d-none d-sm-block pb-5">
                         <div className="">
                             <a className="navbar-brand" href="#">
                                 <img src="/public/icons8-boxLogo.svg" alt="Bootstrap" width="70" height="70"/>

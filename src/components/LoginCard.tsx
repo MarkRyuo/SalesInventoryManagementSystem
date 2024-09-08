@@ -21,6 +21,7 @@ export const LoginCard = (props: Loginprops) => {
 
             <form action="" className="form-login container-lg">
 
+                <Navbar1/>
 
                 <div className="text-center">
                     <img src={props.loginLogo} alt="Error-Logo" width={"100px"}/>
