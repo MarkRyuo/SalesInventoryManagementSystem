@@ -7,7 +7,7 @@ export const Login = () => {
     const propslogin = {
 
         logo01 : {
-            loginLogo: ''
+            loginLogo: '/public/icons8-box.svg'
         }
 
     }

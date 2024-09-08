@@ -15,7 +15,7 @@ export const LoginCard = (props: Loginprops) => {
     return (
         <>
 
-            <p className="">{props.loginLogo}</p>
+            <img src={props.loginLogo} alt="Error-Logo" />
 
             <form action="" className="form-login">
 
