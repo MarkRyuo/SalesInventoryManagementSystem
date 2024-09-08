@@ -1,4 +1,4 @@
-import { LoginCar } from "./components/LoginCard"
+import { Login } from "./components/LoginCard"
 
 function App() {
   
