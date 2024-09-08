@@ -13,7 +13,10 @@ export const Navbar1 = () => {
                             <img src="/public/icons8-boxLogo.svg" alt="Bootstrap" width="70" height="70"/>
                         </a>
                     </div>
-                    <p className="lead">Sales Inventory</p>
+
+                    <div className="col">
+                        <p className="lead">Sales Inventory</p>
+                    </div>
                 </div>
             </nav>
         </>
