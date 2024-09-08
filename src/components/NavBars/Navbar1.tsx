@@ -17,6 +17,10 @@ export const Navbar1 = () => {
                 <div className="col-11">
                     <p className="lead pt-4">Sales Inventory</p>
                 </div>
+
+                <div>
+                    <a href="http://" className="btn btn-info" download={"..."}></a>
+                </div>
             </div>
         </>
 
