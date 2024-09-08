@@ -4,10 +4,18 @@ import { LoginCard } from "./LoginCard";
 
 export const Login = () => {
 
+    const propslogin = {
+
+        logo01 : {
+            loginLogo: ''
+        }
+
+    }
+
     return (
 
         <>
-            <LoginCard/>
+            <LoginCard {...propslogin.logo01}/>
         </>
 
     ) ;
