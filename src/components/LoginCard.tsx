@@ -19,12 +19,6 @@ export const LoginCard = (props: Loginprops) => {
 
             <form action="" className="form-login">
 
-                <div className="mb-3">
-                    <label htmlFor="username" className="form-label">Username: </label>
-                    <input type="text" className="username form-control"/>
-                    <div id="emailHelp" className="form-text">We'll never share your email with anyone else.</div>
-                </div>
-
 
                 <div className="mb-3">
                     <label htmlFor="password" className="form-label">Password: </label>
