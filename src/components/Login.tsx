@@ -13,7 +13,7 @@ export const Login = () => {
                 <input type="text" className="username"/>
 
                 <label htmlFor="username">Password: </label>
-                <input type="text" className="username"/>
+                <input type="text" className="password"/>
 
             </form>
 
