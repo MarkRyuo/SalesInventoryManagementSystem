@@ -1,5 +1,6 @@
 import { Password } from "./LoginCards/Password";
 import { Username } from "./LoginCards/Username";
+import { Navbar1 } from "./NavBars/Navbar1";
 
 
 interface Loginprops {
@@ -19,6 +20,8 @@ export const LoginCard = (props: Loginprops) => {
 
 
             <form action="" className="form-login container-lg">
+
+                <Navbar1/>
 
                 <div className="text-center">
                     <img src={props.loginLogo} alt="Error-Logo" width={"100px"}/>
