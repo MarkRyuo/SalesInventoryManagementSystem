@@ -12,7 +12,9 @@ export const Login = () => {
                 <div className="mb-3">
                     <label htmlFor="username">Username: </label>
                     <input type="text" className="username"/>
+                    <div id="emailHelp" className="form-text">We'll never share your email with anyone else.</div>
                 </div>
+
 
                 <div className="mb-3">
                     <label htmlFor="password">Password: </label>
