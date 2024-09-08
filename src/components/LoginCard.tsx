@@ -23,7 +23,7 @@ export const LoginCard = (props: Loginprops) => {
 
                 <Navbar1/>
 
-                <div className="text-center">
+                <div className="text-center pt-5">
                     <img src={props.loginLogo} alt="Error-Logo" width={"100px"}/>
                 </div>
 
