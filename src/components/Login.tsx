@@ -9,7 +9,7 @@ export const Login = () => {
 
             <form action="" className="form-login">
 
-                <div>
+                <div className="mb-3">
                     <label htmlFor="username">Username: </label>
                     <input type="text" className="username"/>
                 </div>
