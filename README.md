@@ -3,7 +3,7 @@
 
 ## Versions: 
 
-### Latest: 
+### Latest: V1.1
 
     - Main (Sept 8 2024)
 
