@@ -5,7 +5,7 @@
 
 ### Latest: 
 
-    - Main(Sept 8 2024)
+    - Main (Sept 8 2024)
 
 
 
