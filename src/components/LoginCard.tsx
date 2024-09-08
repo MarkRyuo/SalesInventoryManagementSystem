@@ -22,7 +22,6 @@ export const LoginCard = (props: Loginprops) => {
             <form action="" className="form-login">
 
                 <Username/>
-
                 <Password/>
                 
                 <div className="mb-3">
