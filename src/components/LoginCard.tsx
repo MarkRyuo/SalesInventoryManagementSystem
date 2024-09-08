@@ -24,11 +24,10 @@ export const LoginCard = (props: Loginprops) => {
 
                 <div className="row">
                     <div className="col">
-
+                        <Username/>
                     </div>
                 </div>
 
-                <Username/>
                 <Password/>
                 
                 <div className="mb-3">
