@@ -1,3 +1,5 @@
+import { Password } from "./LoginCards/Password";
+import { Username } from "./LoginCards/Username";
 
 
 interface Loginprops {
@@ -18,6 +20,10 @@ export const LoginCard = (props: Loginprops) => {
             <img src={props.loginLogo} alt="Error-Logo" />
 
             <form action="" className="form-login">
+
+                <Username/>
+
+                <Password/>
                 
                 <div className="mb-3">
                     <button type="button" className="btn btn-primary">Log in</button>
