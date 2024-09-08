@@ -36,7 +36,7 @@ export const LoginCard = (props: Loginprops) => {
                 </div>
                 </div>
 
-                <div className="mb-3 text-center">
+                <div className="mt-3 text-center">
                     <button type="button" className="btn btn-primary btn-lg">Log in</button>
                 </div>
                 
