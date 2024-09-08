@@ -19,7 +19,6 @@ export const LoginCard = (props: Loginprops) => {
 
             <form action="" className="form-login">
 
-
                 <div className="mb-3">
                     <label htmlFor="password" className="form-label">Password: </label>
                     <input type="text" className="password form-control"/>    
