@@ -29,11 +29,11 @@ export const LoginCard = (props: Loginprops) => {
 
                 <div className="d-flex justify-content-center">
                     <div className="row">
-                    <div className="col-12 col-md-12 ms-2 me-2">
+                    <div className="col-12 col-md-12 ms-2">
                         <Username/>
                     </div>
 
-                    <div className="col-12 col-md-12 ms-2 me-2">
+                    <div className="col-12 col-md-12 ms-2">
                         <Password/>
                     </div>
                 </div>
