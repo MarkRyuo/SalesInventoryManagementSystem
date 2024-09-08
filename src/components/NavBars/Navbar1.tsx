@@ -15,8 +15,8 @@ export const Navbar1 = () => {
                         </div>
                 </nav>
                 <div className="col-11">
-                            <p className="lead pt-4">Sales Inventory</p>
-                        </div>
+                    <p className="lead pt-4">Sales Inventory</p>
+                </div>
             </div>
         </>
 
