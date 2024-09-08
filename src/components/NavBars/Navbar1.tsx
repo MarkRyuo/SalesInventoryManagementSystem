@@ -19,7 +19,7 @@ export const Navbar1 = () => {
                 </div>
 
                 <div>
-                    <a href="http://" className="btn btn-info" download={"..."}></a>
+                    <a href="http://" className="btn btn-info" download={"..."}>Download App</a>
                 </div>
             </div>
         </>
