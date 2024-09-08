@@ -7,7 +7,7 @@ export const Login = () => {
     return (
         <>
 
-            <form action="" className="">
+            <form action="" className="form-login">
 
                 <label htmlFor="username">Username: </label>
                 <input type="text" className="username"/>
@@ -15,7 +15,7 @@ export const Login = () => {
                 <label htmlFor="password">Password: </label>
                 <input type="text" className="password"/>
 
-                <input type="button" value="Log in" />
+                <button type="button" className="btn btn-primary">Log in</button>
 
             </form>
 
