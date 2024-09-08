@@ -14,12 +14,12 @@ export const Navbar1 = () => {
                         </a>
                     </div>
                 </nav>
-                <div className="col-11">
+                <div className="col-8">
                     <p className="lead pt-4">Sales Inventory</p>
                 </div>
 
-                <div>
-                    <a href="http://" className="btn btn-info" download={"..."}>Download App</a>
+                <div className="col-2 pt-4">
+                    <a href="http://" className="btn btn-outline-primary d-none d-lg-block" download={"..."}>Download App</a>
                 </div>
             </div>
         </>
