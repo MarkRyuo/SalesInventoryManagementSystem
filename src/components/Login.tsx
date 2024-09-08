@@ -9,8 +9,8 @@ export const Login = () => {
 
             <form action="">
 
-                <label htmlFor="">Username</label>
-                <input type="text" value="" />
+                <label htmlFor="username">Username</label>
+                <input type="text"/>
 
             </form>
 
