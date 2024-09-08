@@ -1,14 +1,14 @@
 
 
-interface loginprops {
+interface Loginprops {
 
-    loginLogo = string ; 
+    loginLogo:  string ; 
 
 }
 
 
 
-export const LoginCard = (props: loginprops) => {
+export const LoginCard = (props: Loginprops) => {
 
     
     
