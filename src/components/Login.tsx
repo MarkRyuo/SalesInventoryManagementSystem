@@ -18,10 +18,11 @@ export const Login = () => {
                     <label htmlFor="password">Password: </label>
                     <input type="text" className="password"/>    
                 </div>
-
                 
-
-                <button type="button" className="btn btn-primary">Log in</button>
+                <div className="mb-3">
+                    <button type="button" className="btn btn-primary">Log in</button>
+                </div>
+                
 
             </form>
 
