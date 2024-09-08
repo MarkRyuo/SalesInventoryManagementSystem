@@ -20,21 +20,24 @@ export const LoginCard = (props: Loginprops) => {
 
             <form action="" className="form-login container-lg">
 
-                <img src={props.loginLogo} alt="Error-Logo" />
+                <div className="text-center">
+                    <img src={props.loginLogo} alt="Error-Logo" width={"100px"}/>
+                </div>
 
-                <div className="row gap-4">
-                    <div className="gcol col-md-6">
+                <div className="d-flex justify-content-center">
+                    <div className="row">
+                    <div className="col-12 col-md-12 ms-1">
                         <Username/>
                     </div>
 
-                    <div className="col col-md-6">
+                    <div className="col-12 col-md-12 ms-1">
                         <Password/>
                     </div>
                 </div>
+                </div>
 
-                
-                <div className="mb-3">
-                    <button type="button" className="btn btn-primary">Log in</button>
+                <div className="mb-3 text-center">
+                    <button type="button" className="btn btn-primary btn-lg">Log in</button>
                 </div>
                 
 
