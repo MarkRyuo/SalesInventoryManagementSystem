@@ -43,6 +43,9 @@ export const LoginCard = (props: Loginprops) => {
                     <button type="button" className="btn btn-primary btn-lg">Log in</button>
                 </div>
                 
+                <div className="col-2 pt-4">
+                    <a href="http://" className="btn btn-outline-primary d-none d-block" download={"..."}>Download App</a>
+                </div>
 
             </form>
 
