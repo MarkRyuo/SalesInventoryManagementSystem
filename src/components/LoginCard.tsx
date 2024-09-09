@@ -22,10 +22,10 @@ export const LoginCard = (props: Loginprops) => {
             <form action="" className="form-login container-lg">
 
                 <Navbar1/> 
+                
+                <div style={{width: "75vw", height: "100px"}}></div>{/* Spacing */}
 
-                <div style={{width: "100px", height: "100px"}}></div>
-
-                <div className="text-center pt-5">
+                <div className="text-center pt-5">  
                     <img src={props.loginLogo} alt="Error-Logo" width={"100px"}/>
                 </div>
 
