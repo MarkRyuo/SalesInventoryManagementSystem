@@ -17,7 +17,6 @@ export const LoginCard = (props: Loginprops) => {
     return (
         <>
 
-
             <form action="" className="form-login container-lg">
 
                 <Navbar1/> 
