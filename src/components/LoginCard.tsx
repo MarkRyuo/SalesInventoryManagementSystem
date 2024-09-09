@@ -18,8 +18,7 @@ export const LoginCard = (props: Loginprops) => {
         <>
 
             <form action="" className="form-login container-lg">
-
-                <Navbar1/> 
+                <Navbar1/> {/* Import component nav-bar */}
 
                 <div style={{width: "75vw", height: "100px"}}></div>{/* Spacing */}
 
