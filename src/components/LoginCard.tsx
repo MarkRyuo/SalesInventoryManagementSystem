@@ -3,14 +3,14 @@ import { Username } from "./LoginCards/Username";
 import { Navbar1 } from "./NavBars/Navbar1";
 
 
-interface Loginprops {
+interface LoginProps {
     loginLogo:  string ; 
 
 }
 
 
 
-export const LoginCard = (props: Loginprops) => {
+export const LoginCard = (props: LoginProps) => {
 
     
     
