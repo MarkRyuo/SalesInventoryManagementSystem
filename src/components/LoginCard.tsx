@@ -4,7 +4,6 @@ import { Navbar1 } from "./NavBars/Navbar1";
 
 
 interface Loginprops {
-
     loginLogo:  string ; 
 
 }
@@ -22,7 +21,7 @@ export const LoginCard = (props: Loginprops) => {
             <form action="" className="form-login container-lg">
 
                 <Navbar1/> 
-                
+
                 <div style={{width: "75vw", height: "100px"}}></div>{/* Spacing */}
 
                 <div className="text-center pt-5">  
@@ -46,7 +45,7 @@ export const LoginCard = (props: Loginprops) => {
                 </div>
                 
                 <div className="col-4 pt-4">
-                    <a href="http://" className="btn btn-outline-primary d-block d-sm-none" download={"..."}>Download App</a>
+                    <a href="http://" className="btn btn-outline-primary d-block d-sm-none" download={"..."}>Download App</a> {/* Input the .app */}
                 </div>
 
             </form>
