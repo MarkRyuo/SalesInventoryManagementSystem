@@ -26,4 +26,4 @@
 
 
 Icons: 
-    Icon8 link: [text](https://icons8.com/icons)
+    Icon8 link: [Icon8](https://icons8.com/icons)
