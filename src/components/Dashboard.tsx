@@ -11,9 +11,9 @@ export const Dashboard = () => {
       <>
         <div className="container text-center">
           <div className="row">
+            <div className="col"><Navbar2/></div>
             <div className="col"><SideBar/></div>
-            <div className="col">Column</div>
-            <div className="col">Column</div>
+            
           </div>
         </div>
       </>
