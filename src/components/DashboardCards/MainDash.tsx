@@ -7,12 +7,9 @@ export const MainDash = () => {
 
         <>
 
-        <div className="container-lg">
-                <div className="row">
-                    <div className="col-12"><Navbar2/></div>
-                    <div className="col-12"><SideBar/></div>
-                </div>
-            </div>
+        <div>
+            
+        </div>
 
         </>
     ) ;
