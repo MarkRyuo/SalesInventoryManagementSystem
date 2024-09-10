@@ -1,0 +1,16 @@
+
+
+
+export const SideBar = () => {
+
+    return (
+
+        <aside>
+
+            <div className="container">
+                
+            </div>
+        
+        </aside>
+    ) ;
+}
