@@ -9,6 +9,9 @@ export const Dashboard = () => {
     return (
 
         <>
+        <div className="container-lg">
+
+        </div>
         <Navbar2/>
         <SideBar/>
         
