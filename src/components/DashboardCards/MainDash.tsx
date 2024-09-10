@@ -8,7 +8,9 @@ export const MainDash = () => {
         <>
 
         <div>
-            
+            <div style={{width: "200px",  height: "400px", border: "solid 1px"}}>
+                
+            </div>
         </div>
 
         </>
