@@ -8,7 +8,7 @@ export const MainDash = () => {
         <>
 
         <div>
-            <div style={{width: "200px",  height: "400px", border: "solid 1px"}}>
+            <div className="ms-2 mt-2" style={{width: "1070px",  height: "80vh", border: "solid 1px"}}>
                 Main
             </div>
         </div>

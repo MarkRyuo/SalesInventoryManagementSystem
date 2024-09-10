@@ -17,7 +17,7 @@ export const Dashboard = () => {
                 <div className="col-2">
                     <SideBar/>
                 </div>
-                <div className="col-4">
+                <div className="col-8">
                   <MainDash/>
                 </div>
             </div>
