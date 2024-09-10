@@ -1,12 +1,12 @@
 import { MainDash } from "./components/DashboardCards/MainDash"
-import { Login } from "./components/Login"
+// import { Login } from "./components/Login"
 
 
 function App() {
   
   return (
     <>
-      <Login/>  
+      {/* <Login/>   */}
       <MainDash/>
     </>
   )
