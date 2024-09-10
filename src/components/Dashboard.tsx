@@ -13,6 +13,10 @@ export const Dashboard = () => {
                 <div className="col-12">
                     <Navbar2/>
                 </div>
+
+                <div>
+                  
+                </div>
             </div>
         </div>
       </>
