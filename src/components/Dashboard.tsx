@@ -1,3 +1,4 @@
+import { Navbar2 } from "./NavBars/Navbar2";
 
 
 
@@ -9,8 +10,8 @@ export const Dashboard = () => {
       <>
         <div className="container-lg">
             <div className="row">
-                <div className="">
-
+                <div className="col-12">
+                    <Navbar2/>
                 </div>
             </div>
         </div>
