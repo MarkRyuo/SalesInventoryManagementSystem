@@ -9,10 +9,10 @@ export const Dashboard = () => {
     // * Main Component of dashboard
     return (
       <>
-        <div className="container text-center">
+        <div className="container-lg">
           <div className="row">
-            <div className="col"><Navbar2/></div>
-            <div className="col"><SideBar/></div>
+            <div className="col-12"><Navbar2/></div>
+            <div className="col-12"><SideBar/></div>
             
           </div>
         </div>
