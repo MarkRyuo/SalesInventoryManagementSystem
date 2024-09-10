@@ -1,3 +1,4 @@
+import { SideBar } from "./DashboardCards/Sidebar";
 
 
 
@@ -8,6 +9,7 @@ export const Dashboard = () => {
 
         <>
         
+        <SideBar/>
         
         </>
     ) ;
