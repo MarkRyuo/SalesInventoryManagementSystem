@@ -2,5 +2,10 @@
 
 export const MainDash = () => {
 
-    
+    return (
+
+        <>
+        
+        </>
+    ) ;
 }
