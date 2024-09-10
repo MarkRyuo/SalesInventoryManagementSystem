@@ -1,4 +1,4 @@
-import { DashboardCard } from "./DashboardCard";
+
 
 
 export const Dashboard = () => {
@@ -7,7 +7,7 @@ export const Dashboard = () => {
     return (
       <>
         <div className="container-lg">
-        <DashboardCard/>
+  
         </div>
       </>
     );
