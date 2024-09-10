@@ -1,4 +1,4 @@
-import { DashboardCard } from "../DashboardCard";
+
 
 
 export const MainDash = () => {
@@ -6,7 +6,7 @@ export const MainDash = () => {
     return (
 
         <>
-                
+
         </>
     ) ;
 }
