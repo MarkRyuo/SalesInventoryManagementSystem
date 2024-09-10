@@ -5,5 +5,12 @@
 
 export const Navbar2 = () => {
 
-    return () ;
+    return (
+
+        <>
+            <div className="container-lg">
+                
+            </div>
+        </>
+    ) ;
 }
