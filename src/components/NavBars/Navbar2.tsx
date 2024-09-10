@@ -9,7 +9,7 @@ export const Navbar2 = () => {
 
         <>
             <div className="container-lg">
-                <div style={{border: "1px solid", width: "95vw", height: "10vh"}}>
+                <div style={{border: "1px solid", width: "1100px", height: "10vh"}}>
                     Navbar
                 </div>
             </div>

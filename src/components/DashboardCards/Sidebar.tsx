@@ -8,7 +8,7 @@ export const SideBar = () => {
         <aside>
 
             <div className="container-lg mb-2">
-                <div style={{border: "1px solid", width: "20vw", height: "80vh"}}>
+                <div style={{border: "1px solid", width: "250px", height: "80vh"}}>
                     Side Bar
                 </div>
             </div>
