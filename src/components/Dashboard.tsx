@@ -15,7 +15,7 @@ export const Dashboard = () => {
                     <Navbar2/>
                 </div>
                 <div className="col">
-
+                    <aside/>
                 </div>
                 <div className="col">
 
