@@ -1,8 +1,6 @@
-import { Navbar2 } from "../NavBars/Navbar2";
-import { SideBar } from "./Sidebar";
 
 
-
+//* Element main 
 export const MainDash = () => {
 
     return (
