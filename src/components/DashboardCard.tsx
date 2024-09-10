@@ -1,3 +1,4 @@
+import { MainDash } from "./DashboardCards/MainDash";
 
 
 export const DashboardCard = () => {
@@ -6,7 +7,7 @@ export const DashboardCard = () => {
 
         <>
             <div className="container-lg">
-            
+                <MainDash/>
             </div>
         </>
     ) ;
