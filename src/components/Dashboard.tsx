@@ -7,13 +7,15 @@ export const Dashboard = () => {
 
     // * Main Component of dashboard
     return (
+      <>
+        <div className="vw-75" style={{margin:"1em auto"}}>
+          <div className="row">
+            <div className="col-12">
+                <Navbar2/>
+            </div>
 
-        <>
-        <div className="container-lg">
-            <Navbar2/>
-            <SideBar/>
+          </div>
         </div>
-        
-        </>
-    ) ;
+      </>
+    );
 }
