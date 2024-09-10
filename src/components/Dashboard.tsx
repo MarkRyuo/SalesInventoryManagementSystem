@@ -1,3 +1,4 @@
+import { SideBar } from "./DashboardCards/Sidebar";
 import { Navbar2 } from "./NavBars/Navbar2";
 
 
@@ -10,12 +11,12 @@ export const Dashboard = () => {
       <>
         <div className="container-lg">
             <div className="row">
-                <div className="col-12">
+                <div className="col-4">
                     <Navbar2/>
                 </div>
 
-                <div>
-                  
+                <div className="col-4">
+                    <SideBar/>
                 </div>
             </div>
         </div>
