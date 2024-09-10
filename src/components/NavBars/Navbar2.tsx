@@ -4,5 +4,6 @@
 
 
 export const Navbar2 = () => {
-    
+
+    return () ;
 }
