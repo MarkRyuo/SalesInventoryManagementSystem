@@ -9,7 +9,9 @@ export const MainDash = () => {
 
         <div>
             <div className="ms-2 mt-2" style={{width: "1069px",  height: "80vh", border: "solid 1px"}}>
-                Main
+                <div className="row">
+                    
+                </div>
             </div>
         </div>
 
