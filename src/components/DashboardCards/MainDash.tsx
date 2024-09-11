@@ -18,7 +18,7 @@ export const MainDash = () => {
                         </div>
                     </div>
 
-                    <div className="col-12 col-lg-6 g-1 ms-1">
+                    <div className="col-12 g-1 ms-1">
                         <div>
                             <Graph2/>
                         </div>
