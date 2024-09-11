@@ -14,7 +14,7 @@ export const Dashboard = () => {
         <div className="container-lg">
             <Navbar2/>
             <div className="row">
-                <div className="col-2">
+                <div className="col-2 d-none d-sm-block">
                     <SideBar/>
                 </div>
                 <div className="col-8">

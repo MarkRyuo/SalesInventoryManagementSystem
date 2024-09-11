@@ -1,3 +1,5 @@
+import { Graph1 } from "../Graphs/Graph1";
+import { Graph2 } from "../Graphs/Graph2";
 
 
 //* Element main 
@@ -8,8 +10,22 @@ export const MainDash = () => {
         <>
 
         <div>
-            <div className="ms-2 mt-2" style={{width: "1069 px",  height: "80vh", border: "solid 1px"}}>
-                Main
+            <div className="container-lg m-2" style={{width: "1069px",  height: "80vh",}}>
+                <div className="row text-center">
+                    <div className="col-12 g-1 ms-1">
+                        <div>
+                            <Graph1/>
+                        </div>
+                    </div>
+
+                    <div className="col-12 g-1 ms-1">
+                        <div>
+                            <Graph2/>
+                        </div>
+                    </div>
+                    
+                </div>
+
             </div>
         </div>
 
